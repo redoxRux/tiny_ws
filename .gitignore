@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Python log files
+*.log
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Model checkpoints and logs
+logs/
+checkpoints/
+
+# Data files
+data/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.so
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.swp
+*~
+__init__.pyc
+
+# Ignore development environment files
+.vscode/
+.idea/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore pycache directories
+__pycache__/
+
+# Ignore environment-specific files
+.env
+
+# Ignore data files
+data/
+
+# Ignore virtual environments
+venv/
